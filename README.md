@@ -22,4 +22,3 @@ For the second half of the semester, students will be expected to use Tensorflow
 
 PDFs containing the homework assignments may be found in the [homeworks](https://github.com/ElliottGordon/AdvML-Fall-19/tree/master/homeworks) folder. Released solutions can be found on courseworks.
 
-Kobe James
